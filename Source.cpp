@@ -30,7 +30,7 @@ int main()
 	int d; //Variable para los switches
 	do
 	{
-
+		//NO rectificar los cambios ya añadidos a github
 		system("cls");
 		printf("\n--Menú Principal--\n");
 		printf("\n1.-Añadir libros");
